@@ -1,4 +1,4 @@
-# Sync Windows Net Time
+# Sync Asia Time
 
 net stop w32time
 
